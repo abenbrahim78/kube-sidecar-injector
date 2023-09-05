@@ -1,4 +1,4 @@
-module github.com/morvencao/kube-sidecar-injector
+module github.com/abenbrahim78/kube-sidecar-injector
 
 go 1.17
 
